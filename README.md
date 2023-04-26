@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Alekseev-Aleksandr/Alekseev-Aleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+![Html](https://img.shields.io/badge/Telegram-000999?style=for-the-badge&logo=telegram)
+![Html](https://img.shields.io/badge/VK-000999?style=for-the-badge&logo=vk)
+![Html](https://img.shields.io/badge/HTML-<COLOR>)
+![Html](https://img.shields.io/badge/HTML-<COLOR>)
+![Html](https://img.shields.io/badge/HTML-<COLOR>)
